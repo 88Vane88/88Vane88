@@ -4,10 +4,11 @@
 
 <h3 align="left">Sobre mi:</h3>
 
-Soy un amante de los videojuegos, tecnologia y de los perritos 🐶🐕
-Desarrollador Web Full Stack apasionado, con los conocimientos y la habilidad para solucionar problemas en el menor tiempo posible.
-Motivado a seguir aprendiendo tecnologías nuevas, y enseñando mis conocimientos.
-Siempre con la mejor actitud para trabajar en equipo para llegar al mejor resultado.
+Soy docente de Nivel Inicial (jardín de infantes y maternal) y decidí enfocar mi mirada al futuro de la tecnología.
+Estudiante, próxima a recibirse en Henry como Web Full Stack Developer. Aún desarrollando conocimientos al respecto y como siempre poniendo lo mejor de mí para poder progresar e incorporar nuevas herramientas.
+Motivada en aprender nuevas tecnologías e ir supernadome a mi misma, ya que para mi es un mundo nuevo.
+Siempre con la mejor actitud para trabajar en equipo y poder apoyarnos unos con otros, para poder resolver cualquier problema que se presente.
+
 
 Contactame:<br/>
 Email: **vancig88@gmail.com**
